@@ -1,16 +1,54 @@
-# React + Vite
+# Prakhar Srivastava | Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimalist, high-performance personal portfolio website designed to showcase my work in AI, Data Science, and Full Stack Development.
 
-Currently, two official plugins are available:
+Built with a focus on clean typography, aesthetic, and smooth interactions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+[Insert Vercel Link Here]
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠 Tech Stack
 
-## Expanding the ESLint configuration
+- **Framework:** React.js (Vite)
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+- **Icons:** Lucide React
+- **Deployment:** Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- **Minimalist Design:** Clean interface with a focus on content and typography.
+- **Responsive:** Fully optimized for mobile, tablet, and desktop.
+- **Performance:** High Lighthouse score with optimized assets and lazy loading.
+- **Glassmorphism Navbar:** Modern, blurred navigation bar.
+
+## 🏃‍♂️ Run Locally
+
+Clone the project
+
+```bash
+  git clone [https://github.com/prakharr5/portfolio.git](https://github.com/prakharr5/portfolio.git)
+```
+
+Go to the project directory
+
+Bash
+
+cd portfolio
+Install dependencies
+
+Bash
+
+npm install
+Start the server
+
+Bash
+
+npm run dev
+📫 Contact
+Email: prakharsrivastava586@gmail.com
+
+LinkedIn: prakhar5
+
+GitHub: prakharr5
