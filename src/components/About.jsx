@@ -5,7 +5,7 @@ const About = () => {
   const stats = [
     { label: "Projects Completed", value: "15+" },
     { label: "Team Members Led", value: "80+" },
-    { label: "Research Papers", value: "2" },
+    { label: "Research Projects", value: "4+" },
   ];
 
   return (
