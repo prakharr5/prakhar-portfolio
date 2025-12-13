@@ -26,7 +26,7 @@ const Projects = () => {
       description:
         "Research-based word game solver using graph-theoretic algorithms and statistical distribution analysis.",
       stack: ["Python", "Graph Theory", "Selenium"],
-      link: "https://github.com/prakharr5",
+      link: "https://jotto.bmu.edu.in/",
     },
   ];
 
@@ -37,7 +37,7 @@ const Projects = () => {
       description:
         "Designed the official digital interface to centralize factory data, deployed 2 weeks ahead of schedule.",
       stack: ["ReactJS", "Digital Transformation"],
-      link: "https://github.com/prakharr5",
+      link: "https://bpalloys.in/",
     },
     {
       title: "SubSaFT Official Site",
@@ -45,7 +45,7 @@ const Projects = () => {
       description:
         "Fully SEO-optimized official website for a startup client, handling end-to-end development and deployment.",
       stack: ["Web Dev", "SEO", "Analytics"],
-      link: "https://github.com/prakharr5",
+      link: "https://subsaft.com/",
     },
     {
       title: "BMU ACM Chapter Website",
@@ -53,7 +53,7 @@ const Projects = () => {
       description:
         "Official chapter website serving hundreds of students. Managed 99.9% uptime and event registration funnels.",
       stack: ["React", "Event Management"],
-      link: "https://github.com/prakharr5",
+      link: "https://acmbmu.com/",
     },
   ];
 
