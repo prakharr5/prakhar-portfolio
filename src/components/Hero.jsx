@@ -13,7 +13,7 @@ const Hero = () => {
           transition={{ duration: 0.5 }}
           className="block text-brand-gray text-sm md:text-base font-medium mb-6 tracking-wide"
         >
-          AI & DATA SCIENCE VISIONARY | STRATEGIC PROBLEM SOLVER
+          AI & DATA SCIENCE | STRATEGIC PROBLEM SOLVER
         </motion.span>
 
         {/* Main Headline */}
